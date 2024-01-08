@@ -30,3 +30,5 @@ Este é o backend da aplicação, responsável por fornecer APIs para o frontend
 - `/api/pessoas` - POST: Adicionar uma nova pessoa.
 - `/api/pessoas` - PUT: Atualizar uma pessoa existente.
 - `/api/pessoas/{pessoaId}` - DELETE: Excluir uma pessoa por ID.
+
+![Video](amostra.gif)
